@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NetCentric_PDFMetadata.DAL\NetCentric_PDFMetadata.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
