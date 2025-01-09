@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using NetCentric_PDFMetadata.BLL.Interfaces;
+using NetCentric_PDFMetadata.BLL.Repositories;
 using NetCentric_PDFMetadata.DAL.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => 
  options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+builder.Services.AddScoped<IPdfService, PdfService>();
 
 var app = builder.Build();
 
@@ -27,6 +32,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Pdf}/{action=Index}/{id?}");
 
 app.Run();

@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Upload PDF Files";
+}
+<h2 class="text-center mb-4">Upload PDF </h2>
+
+<form asp-controller="Pdf" asp-action="ProcessFiles" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label for="files" class="form-label">Select Files (PDF)</label>
+        <input type="file" name="files" id="files" multiple accept=".pdf" class="form-control" onchange="displayFileNames()" />
+        <small class="form-text text-muted">You can upload multiple files</small>
+    </div>
+
+    <div id="fileList" class="mb-3">  </div>
+
+    <div class="d-flex justify-content-center">
+        <button type="submit" class="btn btn-primary">Upload and Process</button>
+    </div>
+</form>
+
+<div class="d-flex justify-content-center mt-3">
+    <a href="@Url.Action("Index", "Pdf")" class="btn btn-secondary">Back to Home</a>
+</div>

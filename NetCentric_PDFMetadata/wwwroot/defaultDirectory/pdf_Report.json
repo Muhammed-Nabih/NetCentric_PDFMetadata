@@ -1,0 +1,132 @@
+{
+  "FilesProcessed": [
+    {
+      "Id": 1,
+      "FileName": "Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf",
+      "Title": "Fundamentals of Computer Programming with C#",
+      "Author": "Svetlin Nakov",
+      "CreationDate": "31/03/2016 at 10:53 AM",
+      "NumberOfPages": 1122,
+      "IsComplete": true
+    },
+    {
+      "Id": 2,
+      "FileName": "javascript.pdf",
+      "Title": "Untitled",
+      "Author": "Unknown",
+      "CreationDate": "08/12/2021 at 04:27 PM",
+      "NumberOfPages": 545,
+      "IsComplete": false
+    },
+    {
+      "Id": 3,
+      "FileName": "Dsa.pdf",
+      "Title": "Untitled",
+      "Author": "Unknown",
+      "CreationDate": "18/12/2008 at 10:46 PM",
+      "NumberOfPages": 112,
+      "IsComplete": false
+    },
+    {
+      "Id": 4,
+      "FileName": "Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf",
+      "Title": "Fundamentals of Computer Programming with C#",
+      "Author": "Svetlin Nakov",
+      "CreationDate": "31/03/2016 at 10:53 AM",
+      "NumberOfPages": 1122,
+      "IsComplete": true
+    },
+    {
+      "Id": 5,
+      "FileName": "DotNETFrameworkNotesForProfessionals.pdf",
+      "Title": ".NET Framework Notes for Professionals",
+      "Author": "GoalKicker.com",
+      "CreationDate": "07/06/2018 at 01:22 PM",
+      "NumberOfPages": 192,
+      "IsComplete": true
+    },
+    {
+      "Id": 6,
+      "FileName": "2025-ICPC Egyptian CPC-PLACE (1).pdf",
+      "Title": "Untitled",
+      "Author": "Unknown",
+      "CreationDate": "Null",
+      "NumberOfPages": 0,
+      "IsComplete": false
+    },
+    {
+      "Id": 7,
+      "FileName": "2024-ECPCQDAYTWO2023-Mohamed Nabih-PLACE (1).pdf",
+      "Title": "Untitled",
+      "Author": "Unknown",
+      "CreationDate": "Invalid date format",
+      "NumberOfPages": 1,
+      "IsComplete": false
+    },
+    {
+      "Id": 8,
+      "FileName": "Resume.Mohamed.Nabih (2).pdf",
+      "Title": "Untitled",
+      "Author": "Muhammad Nabih",
+      "CreationDate": "29/12/2024 at 01:47 AM",
+      "NumberOfPages": 2,
+      "IsComplete": false
+    },
+    {
+      "Id": 9,
+      "FileName": "2024-ECPCQDAYTWO2023-Mohamed Nabih-PLACE (1).pdf",
+      "Title": "Untitled",
+      "Author": "Unknown",
+      "CreationDate": "Invalid date format",
+      "NumberOfPages": 1,
+      "IsComplete": false
+    },
+    {
+      "Id": 10,
+      "FileName": "EntityFrameworkCore.pdf",
+      "Title": "Untitled",
+      "Author": "Unknown",
+      "CreationDate": "27/06/2024 at 01:19 PM",
+      "NumberOfPages": 42,
+      "IsComplete": false
+    },
+    {
+      "Id": 11,
+      "FileName": "DotNETFrameworkNotesForProfessionals.pdf",
+      "Title": ".NET Framework Notes for Professionals",
+      "Author": "GoalKicker.com",
+      "CreationDate": "07/06/2018 at 01:22 PM",
+      "NumberOfPages": 192,
+      "IsComplete": true
+    },
+    {
+      "Id": 12,
+      "FileName": "Dsa.pdf",
+      "Title": "Untitled",
+      "Author": "Unknown",
+      "CreationDate": "18/12/2008 at 10:46 PM",
+      "NumberOfPages": 112,
+      "IsComplete": false
+    },
+    {
+      "Id": 13,
+      "FileName": "Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf",
+      "Title": "Fundamentals of Computer Programming with C#",
+      "Author": "Svetlin Nakov",
+      "CreationDate": "31/03/2016 at 10:53 AM",
+      "NumberOfPages": 1122,
+      "IsComplete": true
+    },
+    {
+      "Id": 14,
+      "FileName": "DotNETFrameworkNotesForProfessionals.pdf",
+      "Title": ".NET Framework Notes for Professionals",
+      "Author": "GoalKicker.com",
+      "CreationDate": "07/06/2018 at 01:22 PM",
+      "NumberOfPages": 192,
+      "IsComplete": true
+    }
+  ],
+  "FilesWithMissingMetadata": null,
+  "TotalPages": 4757
+}
